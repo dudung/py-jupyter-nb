@@ -1,4 +1,4 @@
-# condition
+# loop
 Examples how to use for and while loops in Python
 
 
