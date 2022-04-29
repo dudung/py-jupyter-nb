@@ -1,5 +1,5 @@
 # condition
-Examples of conditional statements in Python
+Examples how to use conditional statements in Python
 
 
 ## examples
