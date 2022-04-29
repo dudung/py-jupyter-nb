@@ -2,5 +2,5 @@
 Learn Python using Jupyter Notebook examples
 
 ## examples
-+ [anfang](anfang) (11)
-+ [operator](operator) (11)
++ [anfang](anfang/README.md) (11)
++ [operator](operator/README.md) (11)
