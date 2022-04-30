@@ -7,4 +7,4 @@ Learn Python using Jupyter Notebook examples
 + [operator](operator/README.md) (11)
 + [condition](condition/README.md) (4)
 + [loop](loop/README.md) (10)
-+ [math](math/README.md) (2)
++ [math](math/README.md) (4)
