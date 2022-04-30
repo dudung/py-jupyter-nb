@@ -7,3 +7,4 @@ Examples how to use list in Python
 + [list_change](list_change.ipynb)
 + [list_add](list_add.ipynb)
 + [list_remove](list_remove.ipynb)
++ [list_sort](list_sort.ipynb)
