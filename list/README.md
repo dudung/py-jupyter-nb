@@ -8,3 +8,4 @@ Examples how to use list in Python
 + [list_add](list_add.ipynb)
 + [list_remove](list_remove.ipynb)
 + [list_sort](list_sort.ipynb)
++ [list_copy](list_copy.ipynb)
