@@ -6,4 +6,4 @@ Learn Python using Jupyter Notebook examples
 + [anfang](anfang/README.md) (11)
 + [operator](operator/README.md) (11)
 + [condition](condition/README.md) (4)
-+ [loop](loop/README.md) (8)
++ [loop](loop/README.md) (9)

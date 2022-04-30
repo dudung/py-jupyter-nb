@@ -11,3 +11,4 @@ Examples how to use for and while loops in Python
 + [while](while.ipynb)
 + [while_break](while_break.ipynb)
 + [while_for](while_for.ipynb)
++ [while_for_break](while_for_break.ipynb)
