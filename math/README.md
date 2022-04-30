@@ -10,3 +10,4 @@ Examples how to use some functions from Python `math` module
 + [pi_rad_deg](pi_rad_deg.ipynb)
 + [trigonometric_functions](trigonometric_functions.ipynb)
 + [hyperbolic_functions](hyperbolic_functions.ipynb)
++ [fact_perm_comb](fact_perm_comb.ipynb)
