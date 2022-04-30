@@ -10,3 +10,4 @@ Examples how to use for and while loops in Python
 + [for_range_nested_2](for_range_nested_2.ipynb)
 + [while](while.ipynb)
 + [while_break](while_break.ipynb)
++ [while_for](while_for.ipynb)
