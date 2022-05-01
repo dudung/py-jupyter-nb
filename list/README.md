@@ -12,3 +12,4 @@ Examples how to use list in Python
 + [list_join](list_join.ipynb)
 + [list_element](list_element.ipynb)
 + [list_loop](list_loop.ipynb)
++ [list_comprehension](list_comprehension.ipynb)
