@@ -10,3 +10,4 @@ Examples how to use list in Python
 + [list_sort](list_sort.ipynb)
 + [list_copy](list_copy.ipynb)
 + [list_join](list_join.ipynb)
++ [list_element](list_element.ipynb)
