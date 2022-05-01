@@ -1,4 +1,4 @@
-# import
+# ipynb
 Using `ipynb` module notebook files can be imported as classicl Python modules
 
 
