@@ -1,5 +1,5 @@
 # import
-Using 'ipynb' module notebook files can be imported as classicl Python modules
+Using `ipynb` module notebook files can be imported as classicl Python modules
 
 
 ## examples
