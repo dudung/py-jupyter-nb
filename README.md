@@ -10,4 +10,4 @@ Learn Python using Jupyter Notebook examples
 + [math](math/README.md) (8)
 + [list](list/README.md) (11)
 + [html](html/README.md) (1)
-+ [js](js/README.md) (1)
++ [widget](widget/README.md) (1)
