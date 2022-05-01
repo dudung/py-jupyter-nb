@@ -9,3 +9,4 @@ Examples how to use list in Python
 + [list_remove](list_remove.ipynb)
 + [list_sort](list_sort.ipynb)
 + [list_copy](list_copy.ipynb)
++ [list_join](list_join.ipynb)
