@@ -8,4 +8,4 @@ Learn Python using Jupyter Notebook examples
 + [condition](condition/README.md) (4)
 + [loop](loop/README.md) (10)
 + [math](math/README.md) (8)
-+ [list](list/README.md) (10)
++ [list](list/README.md) (11)
