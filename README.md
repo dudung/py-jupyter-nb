@@ -14,3 +14,8 @@ Learn Python using Jupyter Notebook examples
 + [ipynb](ipynb/README.md) (4)
 + [matplotlib](matplotlib/README.md) (3)
 + [markdown](markdown/README.md) (3)
+
+
+## to-do list
++ learning guide :x:
++ topic relation (mermaid) diagram :x:
