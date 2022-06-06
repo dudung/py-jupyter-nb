@@ -6,5 +6,5 @@ Final or remedial examination
 + [linear regression with least square](lrls.ipynb)
 + [root finding](root.ipynb)
 + [ascii art](asciiart.ipynb)
-+ [artificial neural networ](ann.ipynb)
++ [artificial neural networt](ann.ipynb)
 + [genetic algorithm](ga.ipynb)
