@@ -55,3 +55,6 @@ Copy all files from previous folder to your folder, one of the following folders
 [10219100](ans/10219100) :x: |
 [10219101](ans/10219101) :x: |
 [10219112](ans/10219112) :x:
+
+## implementation
+see https://github.com/dudung/2021-2-fi3201-01-u2
