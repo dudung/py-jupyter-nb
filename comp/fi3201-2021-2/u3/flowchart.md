@@ -1,8 +1,8 @@
 ```mermaid
 flowchart TD
-  % define elements
+  %% define elements
   A([ Mulai ])
   B([ Selesai ])
-  % connect elements
+  %% connect elements
   A --> B
 ```
