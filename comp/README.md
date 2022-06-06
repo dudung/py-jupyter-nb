@@ -1,5 +1,5 @@
 # comp
-Use Jupyter Notebook in examination
+Use Jupyter Notebook in a lecture of Computational Physics
 
 
 ## examples
