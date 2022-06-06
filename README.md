@@ -15,6 +15,7 @@ Learn Python using Jupyter Notebook examples
 + [matplotlib](matplotlib/README.md) (3)
 + [markdown](markdown/README.md) (3)
 + [js](js/README.md) (1)
++ [com](comp/README.md)(1)
 
 
 ## to-do list
