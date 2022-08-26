@@ -13,6 +13,7 @@ Learn Python using Jupyter Notebook examples
 + [widget](widget/README.md) (1)
 + [ipynb](ipynb/README.md) (4)
 + [matplotlib](matplotlib/README.md) (3)
+  + [plot](matplotlib/plot/README.md) (3)
 + [markdown](markdown/README.md) (3)
 + [js](js/README.md) (1)
 + [comp](comp/README.md) (14)
