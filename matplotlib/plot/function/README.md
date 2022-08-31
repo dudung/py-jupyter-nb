@@ -1,4 +1,4 @@
-# plot
+# function
 Plot a function using Python `matplotlib` module
 
 
