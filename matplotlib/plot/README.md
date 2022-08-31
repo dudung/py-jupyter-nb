@@ -6,3 +6,4 @@ Plot using Python `matplotlib` module
 + [math_function_constant](math_function_constant.ipynb)
 + [math_function_linear](math_function_linear.ipynb)
 + [math_function_quadratic](math_function_quadratic.ipynb)
++ [math_function_cubic](math_function_cubic.ipynb)
