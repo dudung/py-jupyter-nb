@@ -14,4 +14,4 @@ Plot using Python `matplotlib` module
 + [math_function_octic](math_function_octic.ipynb)
 + [math_function_nonic](math_function_nonic.ipynb)
 + [math_function_decic](math_function_decic.ipynb)
-
++ [math_function_polynomial](math_function_polynomial.ipynb)
