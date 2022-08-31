@@ -1,5 +1,5 @@
 # plot
-Plot using Python `matplotlib` module
+Plot a function using Python `matplotlib` module
 
 
 ## examples
