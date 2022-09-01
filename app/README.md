@@ -3,4 +3,4 @@ Simple application using butiran
 
 
 ## examples
-+ [simple_calculation_of_magnetic_force](simple_calculation_of_magnetic_force.ipynb)
++ [magnetic_force_particle_motion]](magnetic_force_particle_motion.ipynb)
