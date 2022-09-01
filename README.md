@@ -24,3 +24,4 @@ Learn Python using Jupyter Notebook examples
 ## to-do list
 + learning guide :x:
 + topic relation (mermaid) diagram :x:
++ examples, e.g. physics
