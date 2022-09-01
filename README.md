@@ -19,6 +19,7 @@ Learn Python using Jupyter Notebook examples
 + [js](js/README.md) (1)
 + [comp](comp/README.md) (14)
 + [phys](phys/README.md) (1)
++ [butiran](butiran/README.md) (3)
 
 
 ## to-do list
