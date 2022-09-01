@@ -10,3 +10,4 @@ Using `ipynb` module notebook files can be imported as classicl Python modules
 + [vect2](vect2.ipynb)
 + [test_vect2](test_vect2.ipynb)
 + [vect3](vect3.ipynb)
++ [test_vect3](test_vect3.ipynb)
