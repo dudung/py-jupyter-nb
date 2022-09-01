@@ -11,7 +11,7 @@ Learn Python using Jupyter Notebook examples
 + [list](list/README.md) (11)
 + [html](html/README.md) (2)
 + [widget](widget/README.md) (1)
-+ [ipynb](ipynb/README.md) (4)
++ [ipynb](ipynb/README.md) (7)
 + [matplotlib](matplotlib/README.md) (3)
   + [plot](matplotlib/plot/README.md) (2)
 	+ [function](matplotlib/plot/function/README.md) (12)
@@ -19,7 +19,6 @@ Learn Python using Jupyter Notebook examples
 + [js](js/README.md) (1)
 + [comp](comp/README.md) (14)
 + [phys](phys/README.md) (1)
-+ [butiran](butiran/README.md) (3)
 
 
 ## to-do list
