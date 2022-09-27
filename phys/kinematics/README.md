@@ -1,4 +1,4 @@
-# phys
+# kinematics
 Examples how to use Python for kinematics in physics
 
 
