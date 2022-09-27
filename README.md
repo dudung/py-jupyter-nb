@@ -18,7 +18,7 @@ Learn Python using Jupyter Notebook examples
 + [markdown](markdown/README.md) (3)
 + [js](js/README.md) (1)
 + [comp](comp/README.md) (14)
-+ [phys](phys/README.md) (1)
++ [phys](phys/README.md) (4)
 + [app](app/README.md) (1)
 
 
