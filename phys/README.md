@@ -1,4 +1,4 @@
-# physc
+# phys
 Examples how to use Python for physics
 
 
