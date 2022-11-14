@@ -2,6 +2,18 @@
 teaching physics with visualization
 
 
+## clone
+To clone this repository to your local folder using command line
+
+```
+$ git clone https://github.com/dudung/tea-phys-vis
+```
+
+
+## fork
+For all IPYNB files [fork on GitHub](https://github.com/dudung/tea-phys-vis/fork)
+
+
 ## toc
 + [Table of content in alphabetical order]()
 
