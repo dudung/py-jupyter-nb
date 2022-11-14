@@ -17,7 +17,7 @@ For all IPYNB files
 
 
 ## toc
-+ [Table of content in alphabetical order]()
++ [Table of content in alphabetical index]()
 
 
 ## old versions
