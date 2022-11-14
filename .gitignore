@@ -1,7 +1,5 @@
-token.txt
-
 # Windows shortcut
-powershell.lnk
+psh.lnk
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
