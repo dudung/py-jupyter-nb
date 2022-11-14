@@ -17,7 +17,7 @@ For all IPYNB files
 
 
 ## toc
-+ [Table of content in alphabetical index]()
++ [categories](src/README.md)
 
 
 ## old versions
