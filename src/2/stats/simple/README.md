@@ -1,4 +1,8 @@
 # stats/simple
+examples of random numbers for simple statistics
+
+
+## examples (10)
 + [ssrn_generate](ssrn_generate.ipynb)
 + [ssrn_data](ssrn_data.ipynb)
 + [ssrn_data_read](ssrn_data_read.ipynb)

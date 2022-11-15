@@ -1,11 +1,13 @@
-# 0
-+ [add title and authors information](add_metadata.ipynb)
-+ [for loop and hello world](for_hello_world.ipynb)
-+ [for loop and print integers](for_print_int.ipynb)
-+ [for loop and print a list](for_list_print.ipynb)
-+ [for nested loops (4) and print integers](for_nested_print_int.ipynb)
-+ [for loop and print nested lists](for_list_nested_print.ipynb)
-+ [hello world program](hello_world.ipynb)
-+ [if print odd or even](if_print_int.ipynb)
-+ [input integer from user](add_metadata.ipynb)
-+ [input integer from user if print odd or even](input_if_print_int.ipynb)
+# 0 (cookbook)
+a python notebook cookbook chapter
+
+
+## examples
++ [2021-2-fi3201-01-u2](2021-2-fi3201-01-u2/info/README.md)
+  + [instruction](2021-2-fi3201-01-u2/ans/10201945/instruction.md)
+  + [answer](2021-2-fi3201-01-u2/ans/10200999/README.md)
++ [hello_world.ipynb](hello/hello_world.ipynb)
++ [mermaid_example.md](hello/mermaid_example.md)
++ [embed svg](external/embed_svg.ipynb)
++ [import py](external/import_py.ipynb)
++ [import js](external/include_js.ipynb)

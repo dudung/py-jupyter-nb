@@ -1,4 +1,8 @@
 # graph
+examples of random numbers in graphics
+
+
+## examples (9)
 + [random_points](random_points.ipynb)
 + [random_size_of_points](random_size_of_points.ipynb)
 + [random_color_of_points](random_color_of_points.ipynb)
