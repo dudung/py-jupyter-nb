@@ -16,6 +16,7 @@ For all IPYNB files
 > [fork tea-phys-vis on GitHub](https://github.com/dudung/tea-phys-vis/fork)
 
 
-## sections
-+ [src](src/README.md)
+## explore
 + [course](course/README.md)
++ [src](src/README.md)
++ [refs][refs/README.md]
