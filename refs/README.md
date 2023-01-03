@@ -5,6 +5,7 @@ some references to use
 ## built-in ones
 + [Built-in Functions](https://docs.python.org/3/library/functions.html)
 + [Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)
++ [Basic Data Types in Python](https://realpython.com/python-data-types/)
 + [operator — Standard operators as functions](https://docs.python.org/3/library/operator.html)
 
 
