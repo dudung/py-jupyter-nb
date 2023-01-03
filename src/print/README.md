@@ -8,3 +8,4 @@
 + [sep_parameter](sep_parameter.ipynb)
 + [variables_0](variables_0.ipynb)
 + [f_strings_0](f_strings_0.ipynb)
++ [class_0](class_0.ipynb)
