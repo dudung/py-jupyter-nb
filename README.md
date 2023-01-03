@@ -18,6 +18,6 @@ For all IPYNB files
 
 ## explore
 + [src](src/README.md)
-+ [data](src/README.md)
-+ [course](course/README.md)
++ [data](data/README.md)
++ [courses](course/README.md)
 + [refs](refs/README.md)
