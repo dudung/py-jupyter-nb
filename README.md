@@ -17,9 +17,11 @@ For all IPYNB files
 
 
 ## explore
-+ [course](course/README.md)
 + [src](src/README.md)
-+ [refs][refs/README.md]
++ [data](src/README.md)
++ [course](course/README.md)
++ [refs](refs/README.md)
+
 
 
 ## old versions
