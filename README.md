@@ -13,7 +13,7 @@ $ git clone https://github.com/dudung/py-jupyter-nb
 ## fork
 For all IPYNB files
   
-> [fork tea-phys-vis on GitHub](https://github.com/dudung/py-jupyter-nb/fork)
+> [fork py-jupyter-nb on GitHub](https://github.com/dudung/py-jupyter-nb/fork)
 
 
 ## explore
