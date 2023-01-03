@@ -1,9 +1,0 @@
-# refs
-+ https://stackoverflow.com/questions/9106737/should-you-use-plural-or-singular-form-of-folder-name-in-url
-+ https://realpython.com/learning-paths/
-+ https://www.gcreddy.com/2021/05/python-programming-syllabus.html
-+ https://github.com/NeuralNine/python-curriculum
-+ https://codehs.com/course/5657/overview
-+ https://gist.github.com/kenjyco/69eeb503125035f21a9d
-+ https://help.codegrade.com/use-built-in-content/introduction-to-python-curriculum
-+ https://docs.replit.com/teaching-curriculum/intro-python
