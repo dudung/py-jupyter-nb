@@ -18,7 +18,7 @@ For all IPYNB files
 
 ## explore
 + [src](src/README.md)
-+ [images](src/README.md)
++ [images](images/README.md)
 + [data](data/README.md)
 + [courses](courses/README.md)
 + [refs](refs/README.md)
