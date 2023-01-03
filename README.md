@@ -1,5 +1,5 @@
 # py-jupyter-nb
-learning python using jupyter notebook
+learning python through examples using jupyter notebook
 
 
 ## clone
