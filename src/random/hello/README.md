@@ -1,14 +1,13 @@
-# graph
-examples of random numbers in graphics
+# hello (10)
+examples of hello world
 
-
-## examples (9)
-+ [random_points](random_points.ipynb)
-+ [random_size_of_points](random_size_of_points.ipynb)
-+ [random_color_of_points](random_color_of_points.ipynb)
-+ [random_marker_of_points](random_marker_of_points.ipynb)
-+ [random_points_with_label](random_points_with_label.ipynb)
-+ [random_color_of_points_label](random_color_of_points_label.ipynb)
-+ [simple_random_walk](simple_random_walk.ipynb)
-+ [random_radius_circular_motion](random_radius_circular_motion.ipynb)
-+ [random_roots_quadratic_curve](random_roots_quadratic_curve.ipynb)
++ [hello_world_random_times](hello_world_random_times.ipynb)
++ [hello_from_user_in_list](hello_from_user_in_list.ipynb)
++ [hello_introduction_random_person](hello_introduction_random_person.ipynb)
++ [hello_when_shopping](hello_when_shopping.ipynb)
++ [hello_random_number](hello_random_number.ipynb)
++ [hello_random_times_in_a_line](hello_random_times_in_a_line.ipynb)
++ [hello_world_letters_random_length](hello_world_letters_random_length.ipynb)
++ [hello_hey_hi_howdy](hello_hey_hi_howdy.ipynb)
++ [hello_i_have_numbers](hello_i_have_numbers.ipynb)
++ [hello_we_learn_polygon](hello_we_learn_polygon.ipynb)
