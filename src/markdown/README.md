@@ -1,5 +1,5 @@
 # markdown (4)
-Examples how to use markdown in jupyter notebook
+examples how to use markdown in jupyter notebook
 
 + [markdown_hello](markdown_hello.ipynb)
 + [markdown_table](markdown_table.ipynb)
