@@ -1,7 +1,5 @@
-# misc
-examples of random numbers for miscellaneous problems
+# stats (13)
+examples of random numbers for statistics
 
-
-## examples (2)
-+ [misc_hindex](misc_hindex.ipynb)
-+ [misc_hindex_calc_norand](misc_hindex_calc_norand.ipynb)
++ [pdf](pdf/README.md) (3)
++ [simple](simple/README.md) (10)
