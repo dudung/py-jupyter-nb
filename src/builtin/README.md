@@ -3,4 +3,5 @@ examples with [built-in functions](https://docs.python.org/3/library/functions.h
 
 + [print](print/README.md) (10)
 + [input](input/README.md) (10)
-+ [operators](operators/README.md)(11)
++ [operators](operators/README.md) (11)
++ [conditions](conditions/README.md) (4)
