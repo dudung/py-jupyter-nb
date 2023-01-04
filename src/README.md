@@ -1,7 +1,7 @@
 # src (146)
 some python examples in jupyter notebook
 
-+ [introduction](introduction/README.md) (14)
++ [introduction](introduction/README.md) (13)
 + [markdown](markdown/README.md) (4)
 + [builtin](builtin/README.md) (56)
 + [math](math/README.md) (8)
