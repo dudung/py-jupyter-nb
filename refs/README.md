@@ -7,6 +7,7 @@ some references to use
 + [Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)
 + [Basic Data Types in Python](https://realpython.com/python-data-types/)
 + [operator — Standard operators as functions](https://docs.python.org/3/library/operator.html)
++ [Python eval() Function](https://www.w3schools.com/python/ref_func_eval.asp)
 
 
 ## classs
