@@ -1,5 +1,5 @@
 # print
-examples using [print()](https://www.w3schools.com/python/ref_func_print.asp) function
+examples of [print()](https://www.w3schools.com/python/ref_func_print.asp) function
 
 + [hello_world](hello_world.ipynb)
 + [newline](newline.ipynb)
