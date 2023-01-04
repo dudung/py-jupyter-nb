@@ -6,3 +6,4 @@ examples using [input()](https://www.w3schools.com/python/ref_func_input.asp) fu
 + [multiple_values](multiple_values.ipynb)
 + [integer_to_hexadecimal](integer_to_hexadecimal.ipynb)
 + [evaluate_expression](evaluate_expression.ipynb)
++ [choose_option](choose_option.ipynb)
