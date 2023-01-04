@@ -8,3 +8,4 @@ examples using [input()](https://www.w3schools.com/python/ref_func_input.asp) fu
 + [evaluate_expression](evaluate_expression.ipynb)
 + [choose_option](choose_option.ipynb)
 + [sum_of_integers](sum_of_integers.ipynb)
++ [number_of_characters](number_of_characters.ipynb)
