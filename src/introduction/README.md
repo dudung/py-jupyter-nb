@@ -1,4 +1,4 @@
-# introduction (11)
+# introduction (14)
 some simple examples with references as introduction
 
 + [add title and authors information](add_metadata.ipynb)
@@ -11,3 +11,6 @@ some simple examples with references as introduction
 + [if print odd or even](if_print_int.ipynb)
 + [input integer from user](add_metadata.ipynb)
 + [input integer from user if print odd or even](input_if_print_int.ipynb)
++ [print_for](print_for.ipynb)
++ [print_end](print_end.ipynb)
++ [randint_draw_rect](randint_draw_rect.ipynb)
