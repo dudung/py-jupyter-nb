@@ -1,4 +1,4 @@
-# input
+# input (9)
 examples of [input()](https://www.w3schools.com/python/ref_func_input.asp) function
 
 + [hello_user](hello_user.ipynb)

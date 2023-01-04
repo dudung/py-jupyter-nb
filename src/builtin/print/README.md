@@ -1,4 +1,4 @@
-# print
+# print (10)
 examples of [print()](https://www.w3schools.com/python/ref_func_print.asp) function
 
 + [hello_world](hello_world.ipynb)
