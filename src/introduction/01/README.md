@@ -4,7 +4,7 @@ some simple examples with references as introduction
 + [add title and authors information](add_metadata.ipynb)
 + [for loop and hello world](for_hello_world.ipynb)
 + [for loop and print integers](for_print_int.ipynb)
-+ [for loop and print a list](for_list_print.ipynb)
++ [for loop and print a list](for_print_list.ipynb)
 + [for nested loops (4) and print integers](for_nested_print_int.ipynb)
 + [for loop and print nested lists](for_list_nested_print.ipynb)
 + [hello world program](hello_world.ipynb)
