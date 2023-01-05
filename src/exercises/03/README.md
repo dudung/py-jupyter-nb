@@ -1,5 +1,5 @@
 # 03 (25)
-mixture of labs and project exercises
+mixture of labs and project exercises for ku1102-2022-1
 
 + [101](labs/0/101.ipynb), [102](labs/0/102.ipynb), [103](labs/0/103.ipynb)
 + [111](labs/0/111.ipynb), [112](labs/0/112.ipynb), [113](labs/0/113.ipynb)
