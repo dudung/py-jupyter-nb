@@ -10,6 +10,10 @@ some references to use
 + [Python eval() Function](https://www.w3schools.com/python/ref_func_eval.asp)
 
 
+## documentation
++ [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
+
+
 ## classs
 + [How To Construct Classes and Define Objects in Python 3](https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3)
 + [How to print instances of a class using print()?](https://stackoverflow.com/a/1535336/9475509)
