@@ -1,5 +1,5 @@
 # src (222)
-some python and markdown examples in jupyter notebook
+some python, markdown, and javascript+css+html examples in jupyter notebook
 
 + [introduction](introduction/README.md) (24)
 + [markdown](markdown/README.md) (4)
