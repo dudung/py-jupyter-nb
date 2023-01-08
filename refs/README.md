@@ -38,6 +38,10 @@ some references to use
 + [Add Notebook Author and Title in Jupyter Notebook Cells](https://stackoverflow.com/a/70393677/9475509)
 
 
+## naming
++ [What is the naming convention in Python for variable and function?](https://stackoverflow.com/a/159745/9475509)
+
+
 ## polygon
 + [Filled polygon](https://matplotlib.org/stable/gallery/lines_bars_and_markers/fill.html)
 
