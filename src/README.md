@@ -11,3 +11,4 @@ some python and markdown examples in jupyter notebook
 + [physics](physics/README.md) (4)
 + [exercises](exercises/README.md) (57)
 + [miscitems](miscitems/README.md) (4)
++ [inhouse](inhouse/README.md) (0)

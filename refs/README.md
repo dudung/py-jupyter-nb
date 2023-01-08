@@ -12,7 +12,11 @@ some references to use
 
 ## documentation
 + [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
++ [](https://www.codingem.com/python-how-to-document-functions/)
 
+
+## development
++ [In-House Development – advantages and disadvantages](https://binarapps.com/in-house-development-advantages-and-disadvantages/)
 
 ## classs
 + [How To Construct Classes and Define Objects in Python 3](https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3)
