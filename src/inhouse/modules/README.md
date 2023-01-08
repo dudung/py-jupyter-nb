@@ -1,5 +1,6 @@
-# modules (2)
+# modules (3)
 some inhouse modules
 
-+ [hello](hello.ipynb)
 + [unnamed](unnamed.ipynb)
++ [hello](hello.ipynb)
++ [series](series.ipynb)

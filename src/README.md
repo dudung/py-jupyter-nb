@@ -1,4 +1,4 @@
-# src (220)
+# src (222)
 some python and markdown examples in jupyter notebook
 
 + [introduction](introduction/README.md) (24)
@@ -11,4 +11,4 @@ some python and markdown examples in jupyter notebook
 + [physics](physics/README.md) (4)
 + [exercises](exercises/README.md) (57)
 + [miscitems](miscitems/README.md) (4)
-+ [inhouse](inhouse/README.md) (4)
++ [inhouse](inhouse/README.md) (6)
