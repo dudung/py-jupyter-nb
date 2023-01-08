@@ -18,6 +18,7 @@ some references to use
 ## development
 + [In-House Development – advantages and disadvantages](https://binarapps.com/in-house-development-advantages-and-disadvantages/)
 
+
 ## classs
 + [How To Construct Classes and Define Objects in Python 3](https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3)
 + [How to print instances of a class using print()?](https://stackoverflow.com/a/1535336/9475509)
@@ -28,9 +29,17 @@ some references to use
 + [Python - using format/f string to output hex with 0 padding AND center](https://stackoverflow.com/a/52843600/9475509)
 
 
+## import
++ [Can't import module situated in parent folder from Jupyter-lab notebook and pathlib.Path](https://stackoverflow.com/a/64562179/9475509)
+
+
 ## notebook
 + [Jupyter Notebook Shortcuts](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
 + [Add Notebook Author and Title in Jupyter Notebook Cells](https://stackoverflow.com/a/70393677/9475509)
+
+
+## polygon
++ [Filled polygon](https://matplotlib.org/stable/gallery/lines_bars_and_markers/fill.html)
 
 
 ## versions
