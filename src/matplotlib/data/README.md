@@ -1,4 +1,4 @@
-# data (3)
+# data (4)
 plot data using python `matplotlib` module
 
-+ [xy](xy/README.md) (3)
++ [xy](xy/README.md) (4)
