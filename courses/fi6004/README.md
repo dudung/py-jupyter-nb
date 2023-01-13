@@ -7,7 +7,7 @@ Physical Data Processing [`×`](https://akademik.itb.ac.id/app/dosen:19731201199
 
 
 ## topics
-+ Fourier transforms: Continuous Fourier transform, discrete Fourier transform (DFT), fast Fourier transform (FFT), cascade decimation, Z-transform, Hilbert transform.
++ Fourier transforms: Continuous Fourier transform (CFT), discrete Fourier transform (DFT), fast Fourier transform (FFT), cascade decimation, Z-transform, Hilbert transform.
 + Convolution and deconvolution.
 + Digital filtering: Filter coefficients, low-pass filter, high-pass filter, band-pass filter, moving average, median, robust filters.
 + Signal analysis: auto-correlation and cross-correlation, power spectrum.
