@@ -7,4 +7,4 @@ Simulation and Modelling of Physical Systems [`×`](https://akademik.itb.ac.id/a
 
 
 ## topics
-+ Numerical integration, partition integration, 
++ Numerical integration, quadrature rules, generalized midpoint rule, 
