@@ -1,4 +1,4 @@
-# nummeth (5)
+# nummeth (6)
 jupyter notebook code for some numerical methods
 
-+ [root_finding](root_finding/README.md) (5)
++ [root_finding](root_finding/README.md) (6)
