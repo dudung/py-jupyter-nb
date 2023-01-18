@@ -8,4 +8,4 @@ jupyter notebook code for root finding methods
 + [newton_raphson_method](newton_raphson_method.ipynb)
 + [secant_method](secant_method.ipynb)
 + [fixed_point_iteration_method](fixed_point_iteration_method.ipynb)
-+ [resume_of_results](resume_of_results.ipynb) $\times$
++ [resume_of_methods](resume_of_methods.ipynb)
