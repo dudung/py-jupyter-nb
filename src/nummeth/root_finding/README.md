@@ -6,3 +6,6 @@ jupyter notebook code for root finding methods
 + [scanning_method](scanning_method.ipynb)
 + [bisection_method](bisection_method.ipynb)
 + [newton_raphson_method](newton_raphson_method.ipynb)
++ [secant_method](secant_method.ipynb) $\times$
++ [fixed_point_iteration_method](fixed_point_iteration_method.ipynb) $\times$
++ [resume_of_results](resume_of_results.ipynb) $\times$
