@@ -33,6 +33,10 @@ some references to use
 + [Can't import module situated in parent folder from Jupyter-lab notebook and pathlib.Path](https://stackoverflow.com/a/64562179/9475509)
 
 
+## method
++ [Steffensen type methods for solving nonlinear equations](https://core.ac.uk/download/pdf/82387196.pdf)
+
+
 ## notebook
 + [Jupyter Notebook Shortcuts](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
 + [Add Notebook Author and Title in Jupyter Notebook Cells](https://stackoverflow.com/a/70393677/9475509)
