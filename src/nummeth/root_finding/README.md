@@ -1,5 +1,5 @@
-# root_finding (11)
+# root_finding (12)
 jupyter notebook of root finding for one or many roots
 
 + [one](one/README.md) (10)
-+ [two](two/README.md) (1)
++ [two](two/README.md) (2)
