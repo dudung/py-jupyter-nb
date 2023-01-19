@@ -1,4 +1,4 @@
-# one (8)
+# one (10)
 jupyter notebook code of root finding methods for one root
 
 + [graphical_method](graphical_method.ipynb)
@@ -9,4 +9,5 @@ jupyter notebook code of root finding methods for one root
 + [secant_method](secant_method.ipynb)
 + [fixed_point_iteration_method](fixed_point_iteration_method.ipynb)
 + [false_position_method](false_position_method.ipynb)
++ [steffensen_method](steffensen_method.ipynb)
 + [resume_of_methods](resume_of_methods.ipynb)
