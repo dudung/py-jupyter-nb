@@ -46,6 +46,11 @@ some references to use
 + [What is the naming convention in Python for variable and function?](https://stackoverflow.com/a/159745/9475509)
 
 
+## pandas
++ [Pandas read_excel() - Reading Excel File in Python](https://www.digitalocean.com/community/tutorials/pandas-read_excel-reading-excel-file-in-python)
++ [Pandas Write to Excel with Examples](https://sparkbyexamples.com/pandas/pandas-write-to-excel-with-examples/)
+
+
 ## polygon
 + [Filled polygon](https://matplotlib.org/stable/gallery/lines_bars_and_markers/fill.html)
 
