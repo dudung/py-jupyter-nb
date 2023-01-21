@@ -1,4 +1,4 @@
-# basic (6)
+# basic (7)
 basic examples of python code for reading excel files
 
 + [read_file](read_file.ipynb)
@@ -7,3 +7,4 @@ basic examples of python code for reading excel files
 + [write_file](write_file.ipynb)
 + [write_file_sheets](write_file_sheets.ipynb)
 + [write_file_sheets_append](write_file_sheets_append.ipynb)
++ [wr_file_sheets_append](wr_file_sheets_append.ipynb)
