@@ -1,4 +1,4 @@
-# pandas (7)
+# pandas (8)
 python code in jupyter notebook for reading files using pandas
 
-+ [excel](excel/README.md) (7)
++ [excel](excel/README.md) (8)
