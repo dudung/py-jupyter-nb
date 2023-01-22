@@ -31,6 +31,7 @@ some references to use
 
 ## graph
 + [The Python Graph Gallery](https://www.python-graph-gallery.com/)
++ [3D Scatter Plotting in Python using Matplotlib](https://www.geeksforgeeks.org/3d-scatter-plotting-in-python-using-matplotlib/)
 
 
 ## import
