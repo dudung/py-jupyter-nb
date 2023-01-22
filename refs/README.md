@@ -29,6 +29,10 @@ some references to use
 + [Python - using format/f string to output hex with 0 padding AND center](https://stackoverflow.com/a/52843600/9475509)
 
 
+## graph
++ [The Python Graph Gallery](https://www.python-graph-gallery.com/)
+
+
 ## import
 + [Can't import module situated in parent folder from Jupyter-lab notebook and pathlib.Path](https://stackoverflow.com/a/64562179/9475509)
 
