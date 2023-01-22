@@ -1,4 +1,4 @@
-# src (264)
+# src (266)
 some python, markdown, and javascript+css+html examples in jupyter notebook
 
 + [introduction](introduction/README.md) (24)
@@ -14,3 +14,4 @@ some python, markdown, and javascript+css+html examples in jupyter notebook
 + [inhouse](inhouse/README.md) (9)
 + [nummeth](nummeth/README.md) (15)
 + [pandas](pandas/README.md) (16)
++ [so](so/README.md) (2)
