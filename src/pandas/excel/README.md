@@ -1,5 +1,5 @@
-# excel (14)
+# excel (15)
 python code for reading excel files using pandas
 
 + [basic](basic/README.md) (10)
-+ [chart](chart/README.md) (4)
++ [chart](chart/README.md) (5)
