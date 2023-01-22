@@ -1,4 +1,4 @@
-# chart (5)
+# chart (6)
 examples of python code for reading excel files and plot chart
 
 + [xy_scatter](xy_scatter.ipynb)
@@ -6,3 +6,4 @@ examples of python code for reading excel files and plot chart
 + [histogram](histogram.ipynb)
 + [bar](bar.ipynb)
 + [hbar](hbar.ipynb)
++ [3d_scatter](3d_scatter.ipynb)
