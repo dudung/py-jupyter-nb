@@ -1,6 +1,6 @@
-# nummeth (15)
+# nummeth (16)
 jupyter notebook code for some numerical methods
 
 + [root_finding](root_finding/README.md) (14)
 + [polynomial](polynomial/README.md) (1)
-+ [curve_fitting](curve_fitting/README.md) (0)
++ [curve_fitting](curve_fitting/README.md) (1)
