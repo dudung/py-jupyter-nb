@@ -1,4 +1,4 @@
-# basic (1)
+# basic (2)
 basic example for sympy in jupyter notebook
 
 + [sqrt](sqrt.ipynb)
