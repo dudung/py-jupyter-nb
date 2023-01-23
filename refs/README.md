@@ -40,6 +40,7 @@ some references to use
 
 
 ## method
++ [Machine Learning](https://www.w3schools.com/python/python_ml_getting_started.asp)
 + [Steffensen type methods for solving nonlinear equations](https://core.ac.uk/download/pdf/82387196.pdf)
 
 
