@@ -2,17 +2,3 @@
 basic example for sympy in jupyter notebook
 
 + [sqrt](sqrt.ipynb)
-+ [markdown](markdown/README.md) (4)
-+ [builtin](builtin/README.md) (56)
-+ [math](math/README.md) (8)
-+ [matplotlib](matplotlib/README.md) (21)
-+ [random](random/README.md) (34)
-+ [ipynb](ipynb/README.md) (8)
-+ [concepts](concepts/README.md) (8)
-+ [exercises](exercises/README.md) (57)
-+ [miscitems](miscitems/README.md) (4)
-+ [inhouse](inhouse/README.md) (9)
-+ [nummeth](nummeth/README.md) (15)
-+ [pandas](pandas/README.md) (16)
-+ [so](so/README.md) (4)
-+ [sympy](sympy/README.md) (0)
