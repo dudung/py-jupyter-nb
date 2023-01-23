@@ -1,7 +1,7 @@
-# src (269)
-some python, markdown, and javascript+css+html examples in jupyter notebook
+# basic (1)
+basic example for sympy in jupyter notebook
 
-+ [introduction](introduction/README.md) (24)
++ [sqrt](sqrt.ipynb)
 + [markdown](markdown/README.md) (4)
 + [builtin](builtin/README.md) (56)
 + [math](math/README.md) (8)
@@ -15,4 +15,4 @@ some python, markdown, and javascript+css+html examples in jupyter notebook
 + [nummeth](nummeth/README.md) (15)
 + [pandas](pandas/README.md) (16)
 + [so](so/README.md) (4)
-+ [sympy](sympy/README.md) (1)
++ [sympy](sympy/README.md) (0)
