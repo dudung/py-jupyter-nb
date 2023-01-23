@@ -23,6 +23,15 @@ some references to use
 + [How To Construct Classes and Define Objects in Python 3](https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3)
 + [How to print instances of a class using print()?](https://stackoverflow.com/a/1535336/9475509)
 
+### curve fitting
++ [Curve fitting](https://en.wikipedia.org/wiki/Curve_fitting)
++ [Interpolation and Regression: Similarities and Differences](https://www.baeldung.com/cs/interpolation-vs-regression)
++ (Linear interpolation
+)[https://en.wikipedia.org/wiki/Linear_interpolation]
++ [Lagrange polynomial](https://en.wikipedia.org/wiki/Lagrange_polynomial)
++ [Linear Regression Formula
+](https://www.vedantu.com/formula/linear-regression-formula)
+
 
 ## format
 + [f-Strings: A New and Improved Way to Format Strings in Python](https://realpython.com/python-f-strings/#f-strings-a-new-and-improved-way-to-format-strings-in-python)
