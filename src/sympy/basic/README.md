@@ -8,3 +8,4 @@ basic example for sympy in jupyter notebook
 + [div](div.ipynb)
 + [pow](pow.ipynb)
 + [trig](trig.ipynb)
++ [exp](exp.ipynb)

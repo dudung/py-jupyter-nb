@@ -1,4 +1,4 @@
-# sympy (6)
+# sympy (8)
 symbolic computation with sympy in jupyter notebook
 
-+ [basic](basic/README.md) (7)
++ [basic](basic/README.md) (8)
