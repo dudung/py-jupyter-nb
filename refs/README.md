@@ -31,6 +31,7 @@ some references to use
 + [Lagrange polynomial](https://en.wikipedia.org/wiki/Lagrange_polynomial)
 + [Linear Regression Formula
 ](https://www.vedantu.com/formula/linear-regression-formula)
++ [Linear Regression Formula](https://byjus.com/linear-regression-formula/)
 
 
 ## format
