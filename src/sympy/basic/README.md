@@ -1,4 +1,4 @@
-# basic (7)
+# basic (9)
 basic example for sympy in jupyter notebook
 
 + [sqrt](sqrt.ipynb)
@@ -9,3 +9,4 @@ basic example for sympy in jupyter notebook
 + [pow](pow.ipynb)
 + [trig](trig.ipynb)
 + [exp](exp.ipynb)
++ [log](log.ipynb)
