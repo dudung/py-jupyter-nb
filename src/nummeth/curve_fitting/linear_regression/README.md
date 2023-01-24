@@ -1,4 +1,4 @@
-# linear_regression (1)
+# linear_regression (9)
 jupyter notebook code with python related to linear_regression
 
 + [formula](formula.ipynb)
