@@ -9,4 +9,4 @@ jupyter notebook code with python related to linear_regression
 + [test_data_4](test_data_4.ipynb)
 + [test_data_5](test_data_5.ipynb)
 + [test_data_6](test_data_6.ipynb)
-+ [comparison](comparison.ipynb)
++ [comparison_6_data](comparison_6_data.ipynb)
