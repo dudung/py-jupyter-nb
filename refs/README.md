@@ -34,6 +34,7 @@ some references to use
 
 ## fft
 + [Fourier Transforms With scipy.fft: Python Signal Processing](https://realpython.com/python-scipy-fft/)
++ [Applying Fourier Transform In Python Using Numpy.fft](https://pythontic.com/visualization/signals/fouriertransform_fft)
 
 
 ## format
