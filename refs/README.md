@@ -71,6 +71,10 @@ some references to use
 + [Pandas Write to Excel with Examples](https://sparkbyexamples.com/pandas/pandas-write-to-excel-with-examples/)
 
 
+## player
++ [Using IPython.display.audio](https://stackoverflow.com/a/64139240/9475509)
+
+
 ## polygon
 + [Filled polygon](https://matplotlib.org/stable/gallery/lines_bars_and_markers/fill.html)
 
