@@ -12,7 +12,7 @@ some references to use
 
 ## documentation
 + [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)
-+ [](https://www.codingem.com/python-how-to-document-functions/)
++ [How To Document A Function In Python](https://www.codingem.com/python-how-to-document-functions/)
 
 
 ## development
@@ -23,15 +23,17 @@ some references to use
 + [How To Construct Classes and Define Objects in Python 3](https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3)
 + [How to print instances of a class using print()?](https://stackoverflow.com/a/1535336/9475509)
 
-### curve fitting
+## curve fitting
 + [Curve fitting](https://en.wikipedia.org/wiki/Curve_fitting)
 + [Interpolation and Regression: Similarities and Differences](https://www.baeldung.com/cs/interpolation-vs-regression)
-+ (Linear interpolation
-)[https://en.wikipedia.org/wiki/Linear_interpolation]
++ [Linear interpolation](https://en.wikipedia.org/wiki/Linear_interpolation)
 + [Lagrange polynomial](https://en.wikipedia.org/wiki/Lagrange_polynomial)
-+ [Linear Regression Formula
-](https://www.vedantu.com/formula/linear-regression-formula)
++ [Linear Regression Formula](https://www.vedantu.com/formula/linear-regression-formula)
 + [Linear Regression Formula](https://byjus.com/linear-regression-formula/)
+
+
+## fft
++ [Fourier Transforms With scipy.fft: Python Signal Processing](https://realpython.com/python-scipy-fft/)
 
 
 ## format
