@@ -79,6 +79,10 @@ some references to use
 + [Filled polygon](https://matplotlib.org/stable/gallery/lines_bars_and_markers/fill.html)
 
 
+## set
++ [Special sets of numbers in mathematics](https://en.wikipedia.org/wiki/Set_(mathematics)#Special_sets_of_numbers_in_mathematics)
+
+
 ## sympy
 + [SymPy 1.11 documentation](https://docs.sympy.org/latest/index.html)
 
