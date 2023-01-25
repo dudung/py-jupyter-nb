@@ -81,7 +81,7 @@ some references to use
 
 ## set
 + [Special sets of numbers in mathematics](https://en.wikipedia.org/wiki/Set_(mathematics)#Special_sets_of_numbers_in_mathematics)
-
++ [Set-builder notation](https://en.wikipedia.org/wiki/Set-builder_notation)
 
 ## sympy
 + [SymPy 1.11 documentation](https://docs.sympy.org/latest/index.html)
