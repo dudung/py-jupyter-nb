@@ -1,4 +1,4 @@
-# interpolation (6)
+# interpolation (7)
 jupyter notebook code with python related to interpolation
 
 + [linear_interpolation](linear_interpolation.ipynb)
@@ -7,3 +7,4 @@ jupyter notebook code with python related to interpolation
 + [lagrange_interpolating_polynomial](lagrange_interpolating_polynomial.ipynb)
 + [lagipoly](lagipoly.ipynb)
 + [lip_test_data](lip_test_data.ipynb)
++ [lin_lip_comparison](lin_lip_comparison.ipynb)
