@@ -1,4 +1,4 @@
-# fft (7)
+# fft (8)
 some python examples in jupyter notebook for fft
 
 + [linspace](linscape.ipynb)
@@ -8,3 +8,4 @@ some python examples in jupyter notebook for fft
 + [save_wav_file](save_wav_file.ipynb)
 + [beats](beats.ipynb)
 + [gen_wave_rfft](gen_wave_rfft.ipynb)
++ [rfft_params](rfft_params.ipynb)
