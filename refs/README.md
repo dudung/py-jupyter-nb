@@ -23,6 +23,7 @@ some references to use
 + [How To Construct Classes and Define Objects in Python 3](https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3)
 + [How to print instances of a class using print()?](https://stackoverflow.com/a/1535336/9475509)
 
+
 ## curve fitting
 + [Curve fitting](https://en.wikipedia.org/wiki/Curve_fitting)
 + [Interpolation and Regression: Similarities and Differences](https://www.baeldung.com/cs/interpolation-vs-regression)
@@ -35,6 +36,7 @@ some references to use
 ## fft
 + [Fourier Transforms With scipy.fft: Python Signal Processing](https://realpython.com/python-scipy-fft/)
 + [Applying Fourier Transform In Python Using Numpy.fft](https://pythontic.com/visualization/signals/fouriertransform_fft)
++ [Fast Fourier Transformation FFT - Basics](https://www.nti-audio.com/en/support/know-how/fast-fourier-transform-fft#:~:text=The%20sampling%20rate%20or%20sampling,2%5E10%20%3D%201024%20samples))
 
 
 ## format
