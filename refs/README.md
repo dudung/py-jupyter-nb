@@ -37,6 +37,7 @@ some references to use
 + [Fourier Transforms With scipy.fft: Python Signal Processing](https://realpython.com/python-scipy-fft/)
 + [Applying Fourier Transform In Python Using Numpy.fft](https://pythontic.com/visualization/signals/fouriertransform_fft)
 + [Fast Fourier Transformation FFT - Basics](https://www.nti-audio.com/en/support/know-how/fast-fourier-transform-fft#:~:text=The%20sampling%20rate%20or%20sampling,2%5E10%20%3D%201024%20samples))
++ [Read wav for FFT](https://stackoverflow.com/a/2061184/9475509)
 
 
 ## format
