@@ -9,4 +9,4 @@ tutorial examples for pymunk mostly obtained from [Pymunk tutorial](https://pymu
 + [sliding_box_incline](sliding_box_incline.ipynb) &middot;
 + [tumbling_box_incline](tumbling_box_incline.ipynb) &middot;
 + [ball_in_a_box](ball_in_a_box.ipynb)
-+ [ball_in_a_box_2(]ball_in_a_box_2(.ipynb)
++ [ball_in_a_box_2](ball_in_a_box_2.ipynb)
