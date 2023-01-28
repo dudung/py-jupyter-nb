@@ -1,4 +1,4 @@
-# tutorial (7)
+# tutorial (8)
 tutorial examples for pymunk mostly obtained from [Pymunk tutorial](https://pymunk-tutorial.readthedocs.io/en/latest/) when it uses Pygame
 
 + [bouncing_ball](bouncing_ball.ipynb) &times;
@@ -8,3 +8,4 @@ tutorial examples for pymunk mostly obtained from [Pymunk tutorial](https://pymu
 + [rolling_ball_incline](rolling_ball_incline.ipynb) &middot;
 + [sliding_box_incline](sliding_box_incline.ipynb) &middot;
 + [tumbling_box_incline](tumbling_box_incline.ipynb) &middot;
++ [ball_in_a_box](ball_in_a_box.ipynb)
