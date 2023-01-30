@@ -13,6 +13,7 @@ virtual environments for some libraries
 ## notes
 + `31-jan-2023`
   - Try examples from chatterbot from Dan.
+  - Change kernel still can not find installed chatterbot. Should be registered first to kernal? Pause subuh.
 + `30-jan-2023`
   - Can not install witout venv due to conflict related to python-dateutil.
   - Able install venv `chatterbot` using cmd as in [here](https://stackoverflow.com/a/3927458/9475509)
