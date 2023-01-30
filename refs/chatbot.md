@@ -8,3 +8,4 @@ refs related to chatbot in python
 
 
 + [Using Jupyter Notebook in Virtual Environment](https://www.geeksforgeeks.org/using-jupyter-notebook-in-virtual-environment/)
++ [virtualenv in PowerShell?](https://stackoverflow.com/a/3927458/9475509)
