@@ -9,3 +9,6 @@ refs related to chatbot in python
 
 + [Using Jupyter Notebook in Virtual Environment](https://www.geeksforgeeks.org/using-jupyter-notebook-in-virtual-environment/)
 + [virtualenv in PowerShell?](https://stackoverflow.com/a/3927458/9475509)
++ [Installing the IPython kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html)
+
++ [Installing Python Packages from a Jupyter Notebook](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)
