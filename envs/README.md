@@ -24,6 +24,7 @@ virtual environments for some libraries
   py-jupyter-nb>ipython kernel install --name=chatterbot
   py-jupyter-nb>envs\chatterbot\Scripts\activate.bat
   py-jupyter-nb>pip install ChatterBot==1.0.4
+  py-jupyter-nb>pip install pytz==2022.2.1
   py-jupyter-nb>envs\chatterbot\Scripts\deactivate.bat
   ```
 + notice installed libraries
