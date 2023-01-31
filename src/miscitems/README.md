@@ -1,7 +1,7 @@
-# miscitems (4)
+# miscitems (5)
 miscellaneous items
 
-+ [html_hello_world](html/html_hello_world.ipynb)
-+ [html_canvas](html/html_canvas.ipynb)
-+ [js_diagrammers](js/js_diagrammers.ipynb)
-+ [widget_hello_world](widget/widget_hello_world.ipynb)
++ [html](html/README.md) (2)
++ [js_diagrammers](js/README.md) (1)
++ [widget](widget/README.md) (1)
++ [after_install](after_install/README.md) (1)

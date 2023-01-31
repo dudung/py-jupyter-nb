@@ -1,6 +1,4 @@
-# html
-Examples of drawing with JS + HTML in Jupyter Notebook using various JS libraries.
+# js (1)
+examples of drawing with js + html in jupyter notebook using various js libraries
 
-
-## examples
 + [js_diagrammers](js_diagrammers.ipynb)

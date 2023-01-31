@@ -1,7 +1,5 @@
-# html
-Examples render HTML in Jupyter Notebook using Python
+# html (2)
+examples rendering html in jupyter notebook using python
 
-
-## examples
 + [html_hello_world](html_hello_world.ipynb)
 + [html_canvas](html_canvas.ipynb)
