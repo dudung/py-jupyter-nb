@@ -1,5 +1,4 @@
 # widget
-Examples how to use widgets in Jupyter Notebook using Python
+examples how to use widgets in jupyter notebook using python
 
-## examples
 + [widget_hello_world](widget_hello_world.ipynb)

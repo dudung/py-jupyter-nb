@@ -1,4 +1,4 @@
-# fft (11)
+# fft (12)
 some python examples in jupyter notebook for fft
 
 + [linspace](linscape.ipynb)
@@ -12,3 +12,4 @@ some python examples in jupyter notebook for fft
 + [rfft_sin_cos](rfft_sin_cos.ipynb)
 + [read_wav_file](read_wav_file.ipynb)
 + [some_instruments](some_instruments.ipynb)
++ [sample_rate](sample_rate.ipynb)
