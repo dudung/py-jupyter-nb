@@ -14,4 +14,4 @@ some python examples in jupyter notebook for fft
 + [some_instruments](some_instruments.ipynb)
 + [sample_rate](sample_rate.ipynb)
 + [sample_rate_low](sample_rate_low.ipynb)
-+ [time_duration_low](time_duration_low.ipynb)
++ [time_duration](time_duration.ipynb)
