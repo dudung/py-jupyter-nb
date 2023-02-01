@@ -1,4 +1,4 @@
-# fft (13)
+# fft (14)
 some python examples in jupyter notebook for fft
 
 + [linspace](linscape.ipynb)
@@ -14,3 +14,4 @@ some python examples in jupyter notebook for fft
 + [some_instruments](some_instruments.ipynb)
 + [sample_rate](sample_rate.ipynb)
 + [sample_rate_low](sample_rate_low.ipynb)
++ [time_duration_low](time_duration_low.ipynb)
