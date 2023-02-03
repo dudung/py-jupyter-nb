@@ -1,7 +1,7 @@
 # install (1)
 installing python package
 
-+ []()
++ [jupyterthemes](jupyterthemes.ipynb)
 
 
 https://stackoverflow.com/a/56190436/9475509
