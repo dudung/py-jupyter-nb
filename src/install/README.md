@@ -1,4 +1,4 @@
-# install (5)
+# install (6)
 installing python package
 
 + [jupyterthemes_anaconda_proxy](jupyterthemes_anaconda_proxy.ipynb)
@@ -6,6 +6,7 @@ installing python package
 + [jupyterthemes](jupyterthemes.ipynb)
 + [pillow](pillow.ipynb)
 + [matplotlib](matplotlib.ipynb)
++ [imageio](imageio.ipynb)
 
 <!--
 https://stackoverflow.com/a/56190436/9475509
