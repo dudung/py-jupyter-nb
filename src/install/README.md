@@ -1,8 +1,9 @@
-# install (1)
+# install (3)
 installing python package
 
++ [jupyterthemes_anaconda_proxy](jupyterthemes_anaconda_proxy.ipynb)
++ [butiran](butiran.ipynb)
 + [jupyterthemes](jupyterthemes.ipynb)
-
 
 <!--
 https://stackoverflow.com/a/56190436/9475509
