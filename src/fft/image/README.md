@@ -1,4 +1,4 @@
-# image (5)
+# image (6)
 some python examples in jupyter notebook for fft with image
 
 + [single_color_image](single_color_image.ipynb)
@@ -6,3 +6,4 @@ some python examples in jupyter notebook for fft with image
 + [create_image_per_pixel](create_image_per_pixel.ipynb)
 + [generator](generator.ipynb)
 + [generate_samples](generate_samples.ipynb)
++ [fft_samples](fft_samples.ipynb)
