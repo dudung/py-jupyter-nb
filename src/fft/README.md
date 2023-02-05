@@ -1,18 +1,5 @@
-# fft (15)
-some python examples in jupyter notebook for fft
+# sound (16)
+some python examples in jupyter notebook for fft with audio and image
 
-+ [linspace](linscape.ipynb)
-+ [generator](generator.ipynb)
-+ [plot_wave_curve](plot_wave_curve.ipynb)
-+ [mix_signal](mix_signal.ipynb)
-+ [save_wav_file](save_wav_file.ipynb)
-+ [beats](beats.ipynb)
-+ [gen_wave_rfft](gen_wave_rfft.ipynb)
-+ [rfft_params](rfft_params.ipynb)
-+ [rfft_sin_cos](rfft_sin_cos.ipynb)
-+ [read_wav_file](read_wav_file.ipynb)
-+ [some_instruments](some_instruments.ipynb)
-+ [sample_rate](sample_rate.ipynb)
-+ [sample_rate_low](sample_rate_low.ipynb)
-+ [time_duration](time_duration.ipynb)
-+ [multi_frequency](multi_frequency.ipynb)
++ [audio](sound/README.md) (15)
++ [image](image/README.md) (1)
