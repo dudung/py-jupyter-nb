@@ -1,4 +1,4 @@
-# install (7)
+# install (8)
 installing python package
 
 + [jupyterthemes_anaconda_proxy](jupyterthemes_anaconda_proxy.ipynb)
@@ -8,3 +8,4 @@ installing python package
 + [matplotlib](matplotlib.ipynb)
 + [imageio](imageio.ipynb)
 + [opencv](opencv.ipynb)
++ [scikit_image](scikit_image.ipynb)
