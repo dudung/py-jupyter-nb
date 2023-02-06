@@ -1,5 +1,5 @@
-# sound (22)
+# sound (23)
 some python examples in jupyter notebook for fft with audio and image
 
 + [audio](sound/README.md) (15)
-+ [image](image/README.md) (7)
++ [image](image/README.md) (8)
