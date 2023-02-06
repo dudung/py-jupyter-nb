@@ -1,4 +1,4 @@
-# image (8)
+# image (9)
 some python examples in jupyter notebook for fft with image
 
 + [single_color_image](single_color_image.ipynb)
@@ -9,3 +9,4 @@ some python examples in jupyter notebook for fft with image
 + [fft_samples](fft_samples.ipynb)
 + [sinusoidal_grating](sinusoidal_grating.ipynb)
 + [generator2](generator2.ipynb)
++ [fft_sin_grating](fft_sin_grating.ipynb)
