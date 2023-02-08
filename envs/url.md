@@ -8,3 +8,7 @@ C:\Users\Full Name\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_q
 
 ## chatterbot
 L:\home\py-jupyter-nb\envs\chatterbot\Lib\site-packages
+
+
+## avenv
+L:\home\py-jupyter-nb\envs\avenv\Lib\site-packages
