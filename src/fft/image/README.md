@@ -1,4 +1,4 @@
-# image (13)
+# image (14)
 some python examples in jupyter notebook for fft with image
 
 + [single_color_image](single_color_image.ipynb)
@@ -14,3 +14,4 @@ some python examples in jupyter notebook for fft with image
 + [sg_gen_fft_shift](sg_gen_fft_shift.ipynb)
 + [sine_grating_fft](sine_grating_fft.ipynb)
 + [sine_grating_fft_test_gen2_save](sine_grating_fft_test_gen2_save.ipynb)
++ [fft_sin_grating_shift](fft_sin_grating_shift.ipynb)
