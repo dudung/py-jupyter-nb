@@ -1,14 +1,5 @@
-# install (11)
-installing python package
+# install (12)
+installing python package and jupyter notebook kernel
 
-+ [jupyterthemes_anaconda_proxy](jupyterthemes_anaconda_proxy.ipynb)
-+ [butiran](butiran.ipynb)
-+ [jupyterthemes](jupyterthemes.ipynb)
-+ [pillow](pillow.ipynb)
-+ [matplotlib](matplotlib.ipynb)
-+ [imageio](imageio.ipynb)
-+ [opencv](opencv.ipynb)
-+ [scikit_image](scikit_image.ipynb)
-+ [tensorflow](tensorflow.ipynb)
-+ [numpy](numpy.ipynb)
-+ [pip_check](pip_check.ipynb)
++ [package](package/README.md) (11)
++ [kernel](kernel/README.md) (1)
