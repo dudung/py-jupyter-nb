@@ -1,4 +1,4 @@
-# install (10)
+# install (11)
 installing python package
 
 + [jupyterthemes_anaconda_proxy](jupyterthemes_anaconda_proxy.ipynb)
@@ -11,3 +11,4 @@ installing python package
 + [scikit_image](scikit_image.ipynb)
 + [tensorflow](tensorflow.ipynb)
 + [numpy](numpy.ipynb)
++ [pip_check](pip_check.ipynb)
