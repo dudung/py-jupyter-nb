@@ -20,3 +20,4 @@ some python, markdown, and javascript+css+html examples in jupyter notebook
 + [pymunk](pymunk/README.md) (16)
 + [chatterbot](chatterbot/README.md) (2)
 + [install](install/README.md) (17)
++ [projects](projects/README.md) (1)
