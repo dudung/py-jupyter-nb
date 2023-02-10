@@ -5,3 +5,9 @@ references related to soil_2d
   - figure url https://ars.els-cdn.com/content/image/3-s2.0-B9780128191668000499-f00049-03-9780128191668.jpg
 + Different Types of Soil – Sand, Silt, Clay and Loam, Madhav University, 2018, url https://madhavuniversity.edu.in/soil-types.html [20230210].
 + Wikipedia contributors, "Sphericity", Wikipedia, The Free Encyclopedia, 21 October 2022, 13:42 UTC, url https://en.wikipedia.org/w/index.php?oldid=1117392523 [20230210].
++ "Soil Studies: Soil Particle Sizes", NYSDEC Environmental Education, 23 Aug 2011, url https://www.dec.ny.gov/docs/administration_pdf/lpsoilstudies.pdf [20230210].
++ "Soil properties", Science Learning Hub, url https://www.sciencelearn.org.nz/resources/957-soil-properties [20230210].
++ Jie Zhou, Zeyao Li, Wansheng Pei, "The Quantification and Evolution of Particle Characteristics of
+Saturated Silt under Freeze–Thaw Cycles", Applied Sciences, vol 12, no, p 10703, 2022, url https://doi.org/10.3390/app122110703.
++ Hasa, "What is the Difference Between Sand Silt and Clay", Pediaa,17 Mar 2021, url https://pediaa.com/what-is-the-difference-between-sand-silt-and-clay/ [20230210].
++ Gautam Kumar Das, "Sedimen Grain Size", Encyclopedia of Estuaries, M. J. Kennish (eds), p 555-558, 2016, url  https://doi.org/10.3390/app122110703.
