@@ -1,4 +1,4 @@
-# install (11)
+# install (12)
 installing python package
 
 + [jupyterthemes_anaconda_proxy](jupyterthemes_anaconda_proxy.ipynb)
@@ -12,3 +12,4 @@ installing python package
 + [tensorflow](tensorflow.ipynb)
 + [numpy](numpy.ipynb)
 + [pip_check](pip_check.ipynb)
++ [mpltern](mpltern.ipynb)
