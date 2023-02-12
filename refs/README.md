@@ -8,6 +8,7 @@ some references to use
 + [matplotlib](matplotlib.md)
 + [miscitems](miscitems.md)
 + [modules](modules.md)
++ [mpltern](mpltern.md)
 + [pip](pip.md)
 + [pygame](pygame.md)
 + [pymunk](pymunk.md)
