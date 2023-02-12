@@ -5,6 +5,7 @@ some references to use
 + [chatbot](chatbot.md)
 + [fftimage](fftimage.md)
 + [kerneljupyter](kerneljupyter.md)
++ [matplotlib](matplotlib.md)
 + [miscitems](miscitems.md)
 + [modules](modules.md)
 + [pip](pip.md)
