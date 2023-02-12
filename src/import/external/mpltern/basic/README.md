@@ -1,4 +1,4 @@
 # basic
 basic examples of `mpltern`
 
-+ [minimum_lines](minimum_lines.ipynb)
++ [not_so_minimum_lines](not_so_minimum_lines.ipynb)
