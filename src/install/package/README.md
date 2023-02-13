@@ -1,4 +1,4 @@
-# install (13)
+# install (14)
 installing python package
 
 + [jupyterthemes_anaconda_proxy](jupyterthemes_anaconda_proxy.ipynb)
@@ -14,3 +14,4 @@ installing python package
 + [pip_check](pip_check.ipynb)
 + [mpltern](mpltern.ipynb)
 + [vpython](vpython.ipynb)
++ [jupyter_update](jupyter_update.ipynb)
