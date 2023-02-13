@@ -13,3 +13,4 @@ some references to use
 + [pygame](pygame.md)
 + [pymunk](pymunk.md)
 + [sympy](sympy.md)
++ [vpython](vpython.md)
