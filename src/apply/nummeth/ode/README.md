@@ -1,4 +1,4 @@
-# ode (1)
+# ode (2)
 jupyter notebook for ordinary differential equation
 
 + [ordinary_differential_equation](ordinary_differential_equation.ipynb)
