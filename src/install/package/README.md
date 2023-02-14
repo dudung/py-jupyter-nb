@@ -1,4 +1,4 @@
-# install (17)
+# install (18)
 installing python package
 
 + [jupyterthemes_anaconda_proxy](jupyterthemes_anaconda_proxy.ipynb)
@@ -18,3 +18,4 @@ installing python package
 + [jgraph](jgraph.ipynb)
 + [vispy](vispy.ipynb)
 + [radioactivedecay](radioactivedecay.ipynb)
++ [fresh_install_pip_1](fresh_install_pip_1.ipynb)
