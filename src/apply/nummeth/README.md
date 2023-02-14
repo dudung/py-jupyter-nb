@@ -6,3 +6,4 @@ jupyter notebook code for some numerical methods
 + [curve_fitting](curve_fitting/README.md) (17)
 + [integration](integration/README.md) (5)
 + [linear_equations](linear_equations/README.md) (2)
++ [ode](ode/README.md) (1)
