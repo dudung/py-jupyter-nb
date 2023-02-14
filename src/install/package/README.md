@@ -17,4 +17,4 @@ installing python package
 + [jupyter_update](jupyter_update.ipynb)
 + [jgraph](jgraph.ipynb)
 + [vispy](vispy.ipynb)
-+ [pyne](pyne.ipynb)
++ [radioactivedecay](radioactivedecay.ipynb)
