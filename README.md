@@ -11,7 +11,7 @@ $ git clone https://github.com/dudung/py-jupyter-nb
 
 
 ## fork
-For all IPYNB files
+For all IPYNB files and notified when there are updates
   
 > [fork py-jupyter-nb on GitHub](https://github.com/dudung/py-jupyter-nb/fork)
 
@@ -25,4 +25,6 @@ For all IPYNB files
 
 
 ## interact
-+ Discuss problem, suggest example, ask questions by [creating a new issue](https://github.com/dudung/py-jupyter-nb/issues/new) or [exploring current ones](https://github.com/dudung/py-jupyter-nb/issues).
+Discuss problems, suggest examples, ask questions by
++ [creating a new issue](https://github.com/dudung/py-jupyter-nb/issues/new) or
++ [exploring current ones](https://github.com/dudung/py-jupyter-nb/issues).
