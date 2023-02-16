@@ -22,3 +22,7 @@ For all IPYNB files
 + [data](data/README.md)
 + [courses](courses/README.md)
 + [refs](refs/README.md)
+
+
+## interact
++ Discuss problem, suggest example, ask questions by [creating a new issue](https://github.com/dudung/py-jupyter-nb/issues/new).
