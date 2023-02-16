@@ -6,4 +6,4 @@ python use things related to square grid
 + [squares](squares.ipynb)
 + [squares_use](squares_use.ipynb)
 + [squares_use_list](squares_use_list.ipynb)
-+ [update_square_list_text](update_square_list_text.ipynb)
++ [print_square_list_text](print_square_list_text.ipynb)
