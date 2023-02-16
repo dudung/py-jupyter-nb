@@ -1,7 +1,7 @@
-# apply (83)
+# apply (84)
 python use in some cases
 
 + [fft](fft/README.md) (29)
-+ [nummeth](nummeth/README.md) (46)
++ [nummeth](nummeth/README.md) (47)
 + [physics](physics/README.md) (4)
 + [others](others/README.md) (4)
