@@ -1,4 +1,4 @@
-# ivp (5)
+# ivp (6)
 ordinary differential equation for initial value problem
 
 + [euler_algorithm](euler_algorithm.ipynb)
@@ -6,3 +6,4 @@ ordinary differential equation for initial value problem
 + [eulercircmotxy](eulercircmotxy.ipynb)
 + [eulercircmotxy_use](eulercircmotxy_use.ipynb)
 + [velocity_verlet_algorithm](velocity_verlet_algorithm.ipynb)
++ [runge_kutta_method](runge_kutta_method.ipynb)
