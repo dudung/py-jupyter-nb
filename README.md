@@ -25,4 +25,4 @@ For all IPYNB files
 
 
 ## interact
-+ Discuss problem, suggest example, ask questions by [creating a new issue](https://github.com/dudung/py-jupyter-nb/issues/new).
++ Discuss problem, suggest example, ask questions by [creating a new issue](https://github.com/dudung/py-jupyter-nb/issues/new) or [exploring current ones](https://github.com/dudung/py-jupyter-nb/issues).
