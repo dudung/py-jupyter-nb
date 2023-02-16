@@ -26,5 +26,5 @@ For all IPYNB files and notified when there are updates
 
 ## interact
 Discuss problems, suggest examples, ask questions by
-+ [creating a new issue](https://github.com/dudung/py-jupyter-nb/issues/new) or
-+ [exploring current ones](https://github.com/dudung/py-jupyter-nb/issues).
++ [creating a new issue](https://github.com/dudung/py-jupyter-nb/issues/new)
++ [exploring current ones](https://github.com/dudung/py-jupyter-nb/issues)
