@@ -1,4 +1,4 @@
-# grid (6)
+# grid (7)
 python use things related to grid
 
-+ [square](square/README.md) (6)
++ [square](square/README.md) (7)
