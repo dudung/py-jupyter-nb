@@ -8,5 +8,5 @@ jupyter notebook for ordinary differential equation
 + [eulercircmotxy_use](eulercircmotxy_use.ipynb)
 + [velocity_verlet_algorithm](velocity_verlet_algorithm.ipynb)
 + [velocity_verlet_circular_motion_xy](velocity_verlet_circular_motion_xy.ipynb)
-+ [runge_kutta_method](runge_kutta_method.ipynb)
++ [runge_kutta_4_method](runge_kutta_4_method.ipynb)
 + [runge_kutta_4_circular_motion_xy](runge_kutta_4_circular_motion_xy.ipynb)
