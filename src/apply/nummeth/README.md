@@ -1,4 +1,4 @@
-# nummeth (49)
+# nummeth (50)
 jupyter notebook code for some numerical methods
 
 + [root_finding](root_finding/README.md) (14)
@@ -7,4 +7,4 @@ jupyter notebook code for some numerical methods
 + [integration](integration/README.md) (5)
 + [linear_equations](linear_equations/README.md) (2)
 + [ode](ode/README.md) (9)
-+ [pde](pde/README.md) (1)
++ [pde](pde/README.md) (2)
