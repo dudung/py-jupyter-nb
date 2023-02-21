@@ -1,4 +1,4 @@
-# install (18)
+# install (19)
 installing python package
 
 + [jupyterthemes_anaconda_proxy](jupyterthemes_anaconda_proxy.ipynb)
@@ -19,3 +19,4 @@ installing python package
 + [vispy](vispy.ipynb)
 + [radioactivedecay](radioactivedecay.ipynb)
 + [fresh_install_pip_1](fresh_install_pip_1.ipynb)
++ [schemdraw](schemdraw.ipynb)
