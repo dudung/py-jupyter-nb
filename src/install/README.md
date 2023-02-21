@@ -1,5 +1,5 @@
-# install (27)
+# install (28)
 installing python package and jupyter notebook kernel
 
 + [kernel](kernel/README.md) (7)
-+ [package](package/README.md) (20)
++ [package](package/README.md) (21)
