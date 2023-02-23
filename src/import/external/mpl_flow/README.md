@@ -1,6 +1,5 @@
-# mpl_flow (2)
+# mpl_flow (3)
 how to use `mpl-flow` library
 
-+ [begprocend](begprocend.ipynb)
-+ [nanoflu_thermalcond_params](nanoflu_thermalcond_params_1.ipynb)
-+ [nanoflu_thermalcond_params](nanoflu_thermalcond_params_2.ipynb)
++ [basic](basic/README.md)
++ [thermal_conductivity](thermal_conductivity/README.md)
