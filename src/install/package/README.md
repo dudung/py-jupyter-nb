@@ -1,4 +1,4 @@
-# install (23)
+# install (24)
 installing python package
 
 + [jupyterthemes_anaconda_proxy](jupyterthemes_anaconda_proxy.ipynb)
@@ -24,3 +24,4 @@ installing python package
 + [mpl_flow](mpl_flow.ipynb)
 + [plato_draw](plato_draw.ipynb)
 + [joblib](joblib.ipynb)
++ [searchgrid](searchgrid.ipynb)
