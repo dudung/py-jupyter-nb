@@ -1,4 +1,4 @@
-# install (25)
+# install (26)
 installing python package
 
 + [jupyterthemes_anaconda_proxy](jupyterthemes_anaconda_proxy.ipynb)
@@ -26,3 +26,4 @@ installing python package
 + [joblib](joblib.ipynb)
 + [searchgrid](searchgrid.ipynb)
 + [collection](collection.ipynb)
++ [virtualenv](virtualenv.ipynb)
