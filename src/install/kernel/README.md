@@ -1,4 +1,4 @@
-# kernel (8)
+# kernel (9)
 installing jupyter notebook kernel
 
 + [check_installed_package](check_installed_package.ipynb)
@@ -8,5 +8,5 @@ installing jupyter notebook kernel
 + [relate_kernel_to_virtual_environment](relate_kernel_to_virtual_environment.ipynb)
 + [venv_juypter_kernel](venv_juypter_kernel.ipynb)
 + [intall_package_inside_kernel_sys](intall_package_inside_kernel_sys.ipynb)
-+ [chatterbot_venv_jupyter_kernel](chatterbot_venv_jupyter_kernel.ipynb)
-
++ [chatterbot_venv_ipykernel_py3.8.0](chatterbot_venv_ipykernel_py3.8.0.ipynb)
++ [chatterbot_venv_ipykernel_py3.7.0](chatterbot_venv_ipykernel_py3.8.7.ipynb)
