@@ -1,4 +1,4 @@
-# install (27)
+# install (28)
 installing python package
 
 + [jupyterthemes_anaconda_proxy](jupyterthemes_anaconda_proxy.ipynb)
@@ -28,3 +28,4 @@ installing python package
 + [collection](collection.ipynb)
 + [virtualenv](virtualenv.ipynb)
 + [spacy](spacy.ipynb)
++ [openpyxl](opencv.ipynb)
