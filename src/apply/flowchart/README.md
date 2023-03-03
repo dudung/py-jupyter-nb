@@ -1,4 +1,4 @@
-# flowchart (5)
+# flowchart (6)
 flowchart in python
 
-+ [mermaid](mermaid/README.md) (5)
++ [mermaid](mermaid/README.md) (6)
