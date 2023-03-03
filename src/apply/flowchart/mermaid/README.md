@@ -1,4 +1,4 @@
-# mermaid (6)
+# mermaid (7)
 flowchart in python using mermaid.ink service
 
 + [mermaid](mermaid.ipynb)
@@ -7,3 +7,4 @@ flowchart in python using mermaid.ink service
 + [quadratic_formula](quadratic_formula.ipynb)
 + [newton_raphson_method](newton_raphson_method.ipynb)
 + [secant_method](secant_method.ipynb)
++ [grad_fs_prog_pic](grad_fs_prog_pic.ipynb)
