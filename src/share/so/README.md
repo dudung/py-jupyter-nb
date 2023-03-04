@@ -1,4 +1,4 @@
-# so (9)
+# so (10)
 jupyter notebook code for stack overflow answer
 
 + [75204783](75204783.ipynb)
@@ -10,3 +10,4 @@ jupyter notebook code for stack overflow answer
 + [75388232](75388232.ipynb)
 + [75496865](75496865.ipynb)
 + [75571167](75571167.ipynb)
++ [75636459](75636459.ipynb)
