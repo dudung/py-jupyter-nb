@@ -1,4 +1,4 @@
-# animation (5)
+# animation (6)
 python use in simple animation
 
-+ [graph](graph/README.md) (5)
++ [graph](graph/README.md) (6)
