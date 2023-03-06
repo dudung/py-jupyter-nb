@@ -1,4 +1,4 @@
-# exercises (57)
+# exercises (58)
 some exercises related to courses
 
 + [00](00/README.md) (8)
@@ -6,4 +6,4 @@ some exercises related to courses
 + [02](02/README.md) (3)
 + [03](03/README.md) (25)
 + [04](04/README.md) (2)
-+ [05](05/README.md) (1)
++ [05](05/README.md) (2)
