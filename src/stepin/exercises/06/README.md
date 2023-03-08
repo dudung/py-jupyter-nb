@@ -1,6 +1,6 @@
 # 06 (2)
 some exercises
 
-+ [sid](sid.ipynb)
++ [lib6](lib6.ipynb)
 + [audio](audio.ipynb
 )
