@@ -9,3 +9,4 @@ python use in some cases
 + [machlearn](machlearn/README.md) (3)
 + [flowchart](flowchart/README.md) (12)
 + [animation](animation/README.md) (6)
++ [misc](misc/README.md) (0)

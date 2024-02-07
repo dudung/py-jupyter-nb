@@ -4,9 +4,6 @@ a3pshp.lnk
 token.txt
 cmd.lnk
 
-# virtual environment
-pynb
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
