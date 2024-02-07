@@ -17,7 +17,7 @@ For all IPYNB files and notified when there are updates
 
 
 ## virtual environment
-+ Folder `pynb`
++ Folder `pynb` (local folder in [`.gitignore`](.gitignore))
 + File [`requirements.txt`](requirements.txt)
 + Reproduce
 ```
