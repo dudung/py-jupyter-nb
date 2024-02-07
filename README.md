@@ -16,6 +16,14 @@ For all IPYNB files and notified when there are updates
 > [fork py-jupyter-nb on GitHub](https://github.com/dudung/py-jupyter-nb/fork)
 
 
+## virtual environment
++ Folder `pynb`
++ Reproduce
+```
+pip install -r requirements.txt
+```
+
+
 ## explore
 + [src](src/README.md)
 + [images](images/README.md)
