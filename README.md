@@ -18,6 +18,7 @@ For all IPYNB files and notified when there are updates
 
 ## virtual environment
 + Folder `pynb`
++ File [`requirements.txt`](requirements.txt)
 + Reproduce
 ```
 pip install -r requirements.txt
