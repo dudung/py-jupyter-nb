@@ -18,6 +18,7 @@ cycler==0.12.1
 debugpy==1.8.0
 decorator==5.1.1
 defusedxml==0.7.1
+et-xmlfile==1.1.0
 executing==2.0.1
 fastjsonschema==2.19.1
 fonttools==4.48.1
@@ -57,6 +58,7 @@ nest-asyncio==1.6.0
 notebook==7.0.7
 notebook_shim==0.2.3
 numpy==1.26.4
+openpyxl==3.1.2
 overrides==7.7.0
 packaging==23.2
 pandas==2.2.0
