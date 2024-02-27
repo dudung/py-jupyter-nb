@@ -50,6 +50,7 @@ kiwisolver==1.4.5
 MarkupSafe==2.1.5
 matplotlib==3.8.2
 matplotlib-inline==0.1.6
+mermaid-python==0.1
 mistune==3.0.2
 nbclient==0.9.0
 nbconvert==7.15.0
