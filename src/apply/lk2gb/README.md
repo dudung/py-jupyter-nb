@@ -6,3 +6,4 @@ examples 4lk2gb
   - [hello_import.py](hello_import.py)
 + matrix_2d_view
   - [matrix_2d_view.ipynb](matrix_2d_view.ipynb)
+  = [circular_curve.ipynb](circular_curve.ipynb)
