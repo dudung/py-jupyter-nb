@@ -2,6 +2,7 @@
 lk2gb learn stage
 
 + animation
+  - `22-jun-2024` [sin_perp_markers.ipynb](sin_perp_markers.ipynb)
   - '22-jun-2024` [sine_perpendicular.ipynb](sine_perpendicular.ipynb)
   - `21-jun-2024` [sine_wave.ipynb](sine_wave.ipynb)
 + hello
