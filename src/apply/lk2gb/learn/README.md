@@ -1,5 +1,5 @@
-# lk2gb (3)
-examples 4lk2gb
+# learn (6)
+lk2gb learn stage
 
 + animation
   - `21-jun-2024` [sine_wave.ipynb](sine_wave.ipynb)
