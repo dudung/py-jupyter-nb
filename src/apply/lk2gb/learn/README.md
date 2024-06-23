@@ -2,6 +2,7 @@
 lk2gb learn stage
 
 + animation
+  - `23-jun-2024` [two_particles_circ_mot_viz.ipynb](two_particles_circ_mot_viz.ipynb)
   - `22-jun-2024` [circle_draw_anim.ipynb](circle_draw_anim.ipynb)
   - `22-jun-2024` [sin_perp_markers.ipynb](sin_perp_markers.ipynb)
   - '22-jun-2024` [sine_perpendicular.ipynb](sine_perpendicular.ipynb)
