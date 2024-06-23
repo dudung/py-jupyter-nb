@@ -1,5 +1,5 @@
 # learn (10)
-lk2gb learn stage
+a learn stage of tmp
 
 + animation (5)
   - `23-jun-2024` [two_particles_circ_mot_viz.ipynb](two_particles_circ_mot_viz.ipynb)
