@@ -3,14 +3,14 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "9167ce7d-f15f-4ddf-8904-7f478a2d2b1c",
+   "id": "a07a13a6-aaf8-4db0-8e20-e970e84bd5cf",
    "metadata": {},
    "outputs": [
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "(x1,x2),a,b\n",
+      "(x1, x2), a, b\n",
       "(0.000, 1.000), 0.000, 2.000\n",
       "(1.000, 2.000), 1.000, 1.000\n",
       "(2.000, 3.000), -3.000, 3.000\n",
@@ -30,8 +30,53 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 2,
    "id": "c56ecec7-da6b-49c7-b2c4-c50e8be3003a",
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "11 11\n"
+     ]
+    }
+   ],
+   "source": [
+    "xx = [0, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5]\n",
+    "yy = linint.interpolate(xx)\n",
+    "print(len(xx), len(yy))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "0ce94e8a-2457-4b40-ad4c-9e31bbc6ec24",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "NameError",
+     "evalue": "name 'yy' is not defined",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[1;31m----------------------------------------------------------------------\u001b[0m",
+      "\u001b[1;31mNameError\u001b[0m                            Traceback (most recent call last)",
+      "Cell \u001b[1;32mIn[5], line 1\u001b[0m\n\u001b[1;32m----> 1\u001b[0m \u001b[38;5;28;01mfor\u001b[39;00m x, y \u001b[38;5;129;01min\u001b[39;00m \u001b[38;5;28mzip\u001b[39m(xx, \u001b[43myy\u001b[49m):\n\u001b[0;32m      2\u001b[0m     \u001b[38;5;28mprint\u001b[39m(x, y)\n",
+      "\u001b[1;31mNameError\u001b[0m: name 'yy' is not defined"
+     ]
+    }
+   ],
+   "source": [
+    "for x, y in zip(xx, yy):\n",
+    "    print(x, y)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "159752d1-55fa-47be-8ba1-8cf3f4c77cba",
    "metadata": {},
    "outputs": [],
    "source": []
