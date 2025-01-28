@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 
 ## explore
-Navigate to `src` folder for the notebooks and begin to learn Python.
+Navigate to [`src`](src) folder for the notebooks and begin to learn Python.
 
 
 ## interact
