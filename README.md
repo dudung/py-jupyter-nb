@@ -1,6 +1,7 @@
 # py-nb
 notebooks for learning python
 
+
 ## clone
 To clone this repository to your local folder using command line
 ```
@@ -16,6 +17,10 @@ Reproduce
 ```
 pip install -r requirements.txt
 ```
+
+
+## explore
+Navigate to `src` folder for the notebooks and begin to learn Python.
 
 
 ## interact
